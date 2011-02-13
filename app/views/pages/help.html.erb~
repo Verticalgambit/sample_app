@@ -1,7 +1,8 @@
-<h1>Sample App</h1>
+<h1>Help</h1>
 <p>
-  This is the home page for the
-  <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a>
-  sample application.
+  Get help on Ruby on Rails Tutorial at the
+  <a href="http://railstutorial.org/help">Ruby on Rails Tutorial Help page</a>
+  To get help on this Sample App the
+  <a href="http://railstutorial.org/book">Tutorial Book</a>
 </p>
 
