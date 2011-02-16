@@ -1,5 +1,8 @@
-<h1>Sample App</h1>
+<h1>PredictAll App</h1>
 <p>
   This is the home page for the PredictAll sample application.
-</p>
+  </p>
+
+  <%= link_to "Sign up now!", '#', :class => "signup_button round" %>
+  <%= link_to "Gamer Score:", '#', :class => "gamer_score round" %>
 
