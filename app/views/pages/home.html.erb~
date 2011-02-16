@@ -3,6 +3,5 @@
   This is the home page for the PredictAll sample application.
   </p>
 
-  <%= link_to "Sign up now!", '#', :class => "signup_button round" %>
-  <%= link_to "Gamer Score:", '#', :class => "gamer_score round" %>
+  <%= link_to "Sign up now!", signup_path, :class => "signup_button round" %>
 
